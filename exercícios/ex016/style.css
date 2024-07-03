@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right, rgba(167, 24, 148, 0.473), rgba(172, 19, 159, 0.466));
+}
+
+main {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: yellow;
+    width: 500px;
+    padding: 10 px;
+    margin: auto;
+}
+
+p {
+    text-align: justify;
+}
